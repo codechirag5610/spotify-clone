@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Fredoka&family=Open+Sans&family=Quicksand:wght@600&family=Source+Code+Pro&family=Varela+Round&display=swap');
+
+.login {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: black;
+}
+
+.login > img {
+    width: 50%;
+}
+
+.login > a {
+    padding: 20px;
+    background-color: #1db954;
+    font-weight: 800;
+    text-decoration: none;
+    color: white;
+    border-radius: 99px;
+    font-family: "Fredoka", sans-serif;
+}
